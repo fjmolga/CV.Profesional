@@ -1,0 +1,5 @@
+{
+  "name": "Interactive CV",
+  "description": "An interactive CV web application that displays professional information in a visually appealing and modern format, based on provided data.",
+  "requestFramePermissions": []
+}
